@@ -1,0 +1,17 @@
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\IPloyWinRepository.deps.json
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\IPloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\ref\IPloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\IPloyWinRepository.pdb
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\PloyWinContext.dll
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\PloyWinContext.pdb
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\bin\Release\net5.0\win-x64\PloyWinDto.pdb
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.csproj.AssemblyReference.cache
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.AssemblyInfoInputs.cache
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.AssemblyInfo.cs
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.csproj.CoreCompileInputs.cache
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.csproj.CopyComplete
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\ref\IPloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\IPloyWinRepository\obj\Release\net5.0\win-x64\IPloyWinRepository.pdb

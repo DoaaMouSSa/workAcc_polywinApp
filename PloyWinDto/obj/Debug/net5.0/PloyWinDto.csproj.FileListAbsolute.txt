@@ -1,0 +1,75 @@
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.deps.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Debug\net5.0\ref\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.AssemblyReference.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfoInputs.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfo.cs
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CoreCompileInputs.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\ref\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.deps.json
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\bin\Debug\net5.0\ref\PloyWinDto.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.AssemblyReference.cache
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfoInputs.cache
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfo.cs
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CoreCompileInputs.cache
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\ref\PloyWinDto.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.pdb
+E:\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.deps.json
+E:\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.dll
+E:\PolyWinApp\PloyWinDto\bin\Debug\net5.0\ref\PloyWinDto.dll
+E:\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.pdb
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.AssemblyReference.cache
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.GeneratedMSBuildEditorConfig.editorconfig
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfoInputs.cache
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfo.cs
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CoreCompileInputs.cache
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.dll
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\ref\PloyWinDto.dll
+E:\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.deps.json
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\ref\PloyWinDto.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.AssemblyReference.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfoInputs.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfo.cs
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CoreCompileInputs.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\ref\PloyWinDto.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.deps.json
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\ref\PloyWinDto.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.AssemblyReference.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfoInputs.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfo.cs
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CoreCompileInputs.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\ref\PloyWinDto.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.deps.json
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\bin\Debug\net5.0\ref\PloyWinDto.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\bin\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.AssemblyReference.cache
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfoInputs.cache
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.AssemblyInfo.cs
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CoreCompileInputs.cache
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\ref\PloyWinDto.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\bin\Debug\net5.0\PloyWinContext.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\bin\Debug\net5.0\PloyWinContext.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinDto\obj\Debug\net5.0\PloyWinDto.csproj.CopyComplete

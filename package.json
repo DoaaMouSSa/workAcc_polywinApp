@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "redux-localstorage": "^0.4.1"
+  }
+}

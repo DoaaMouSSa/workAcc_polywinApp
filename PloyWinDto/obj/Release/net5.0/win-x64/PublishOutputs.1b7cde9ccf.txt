@@ -1,0 +1,6 @@
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Release\net5.0\win-x64\publish\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Release\net5.0\win-x64\publish\PloyWinDto.deps.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Release\net5.0\win-x64\publish\PloyWinDto.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Release\net5.0\win-x64\publish\Microsoft.AspNetCore.Http.Features.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Release\net5.0\win-x64\publish\Microsoft.Extensions.Primitives.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinDto\bin\Release\net5.0\win-x64\publish\System.IO.Pipelines.dll

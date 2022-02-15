@@ -1,0 +1,15 @@
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\bin\Release\net5.0\win-x64\PloyWinContext.deps.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\bin\Release\net5.0\win-x64\PloyWinContext.runtimeconfig.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\bin\Release\net5.0\win-x64\PloyWinContext.runtimeconfig.dev.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\bin\Release\net5.0\win-x64\PloyWinContext.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\bin\Release\net5.0\win-x64\ref\PloyWinContext.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\bin\Release\net5.0\win-x64\PloyWinContext.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.csproj.AssemblyReference.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.AssemblyInfoInputs.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.AssemblyInfo.cs
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.csproj.CoreCompileInputs.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\ref\PloyWinContext.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinContext\obj\Release\net5.0\win-x64\PloyWinContext.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+/* Provide sufficient contrast against white background */
+ 
+
+.modal-dialog {
+    width: 77% !important;
+}
+body {
+    font-family: 'Cairo' !important;
+}

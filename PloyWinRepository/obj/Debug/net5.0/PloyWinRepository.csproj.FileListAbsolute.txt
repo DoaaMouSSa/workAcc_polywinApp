@@ -1,0 +1,131 @@
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.deps.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.dev.json
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\ref\PloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.AssemblyReference.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfoInputs.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfo.cs
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CoreCompileInputs.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\ref\PloyWinRepository.dll
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.pdb
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.genruntimeconfig.cache
+G:\WORK\PloyWin\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CopyComplete
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.deps.json
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.json
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.dev.json
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\ref\PloyWinRepository.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.AssemblyReference.cache
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfoInputs.cache
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfo.cs
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CoreCompileInputs.cache
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\ref\PloyWinRepository.dll
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.pdb
+G:\WORK\PloyWin - Copy\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.genruntimeconfig.cache
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.deps.json
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.json
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.dev.json
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.dll
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\ref\PloyWinRepository.dll
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.pdb
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.dll
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.dll
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.dll
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.pdb
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.pdb
+E:\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.pdb
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.AssemblyReference.cache
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfoInputs.cache
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfo.cs
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CoreCompileInputs.cache
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CopyComplete
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.dll
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\ref\PloyWinRepository.dll
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.pdb
+E:\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.genruntimeconfig.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.deps.json
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.json
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.dev.json
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\ref\PloyWinRepository.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.AssemblyReference.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfoInputs.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfo.cs
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CoreCompileInputs.cache
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CopyComplete
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\ref\PloyWinRepository.dll
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.pdb
+C:\Users\abed\Desktop\PolyWin\New folder\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.genruntimeconfig.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.deps.json
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.json
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.dev.json
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\ref\PloyWinRepository.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.AssemblyReference.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfoInputs.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfo.cs
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CoreCompileInputs.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\ref\PloyWinRepository.dll
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.pdb
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.genruntimeconfig.cache
+E:\MyProgram\Program Worked\PolyWinApp\PolyWinApp\PolyWinApp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CopyComplete
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.deps.json
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.json
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.runtimeconfig.dev.json
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\ref\PloyWinRepository.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinRepository.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\IPloyWinRepository.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinContext.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\bin\Debug\net5.0\PloyWinDto.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.AssemblyReference.cache
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfoInputs.cache
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.AssemblyInfo.cs
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CoreCompileInputs.cache
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.csproj.CopyComplete
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\ref\PloyWinRepository.dll
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.pdb
+G:\WORK\polywinBitcu\polywinapp\PloyWinRepository\obj\Debug\net5.0\PloyWinRepository.genruntimeconfig.cache

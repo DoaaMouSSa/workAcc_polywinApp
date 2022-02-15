@@ -1,0 +1,125 @@
+#sidebar-menu ul li a i {
+    margin-left: 15px !important;
+    margin-right: 3px !important;
+}
+
+.float-right{
+    float: left !important;
+}
+
+.float-left{
+    float: right!important;
+}
+
+
+.headerbar .headerbar-left{
+    float:right !important;
+}
+
+.navbar-custom {
+    margin-right: 250px !important;
+    margin-left: 0px !important;
+}
+
+#main.enlarged .footer {
+    right: 70px !important;
+    left: 0px !important;
+}
+
+
+
+#main.enlarged .left.main-sidebar #sidebar-menu>ul>li>a {
+    padding-left: 0px !important;
+    padding-right: 10px !important;
+}
+
+
+#main.enlarged .left.main-sidebar #sidebar-menu ul>li:hover>ul {
+    left: 0px !important;
+    right: 75px !important;
+}
+
+#main.enlarged .left.main-sidebar #sidebar-menu ul>li:hover>ul a {
+    padding-right: 15px !important;
+    padding-left: 0px !important;
+}
+
+
+#main.enlarged .left.main-sidebar #sidebar-menu ul ul li:hover>ul {
+    left: 0px !important;
+    right: 190px !important;
+}
+
+#main.enlarged .left.main-sidebar #sidebar-menu ul ul li>a span.pull-right {
+    right: 0px !important;
+    left: 20px !important;
+}
+
+#main.enlarged .left.main-sidebar #sidebar-menu ul>li>a span {
+    padding-right: 10px !important;
+    padding-left: 0px !important;
+
+}
+
+
+#main.enlarged .left.main-sidebar #sidebar-menu>ul>li>a i {
+    margin-right: 0px!important;
+    margin-left: 20px!important;
+}
+
+
+#main.enlarged .content-page {
+    margin-left: 0px !important;
+    margin-right: 70px !important;
+}
+
+#main.enlarged .navbar-custom {
+    margin-left: 0px !important;
+    margin-right: 70px !important;
+}
+
+#main.enlarged .headerbar .headerbar-left .logo i {
+    margin-left: 0 !important;
+}
+
+
+
+#main.enlarged .user-detail .dropup {
+    margin-left: 17px !important;
+    margin-right: 0px !important;
+
+}
+
+#main.enlarged .user-detail p {
+    right: 0px !important;
+    left: 15px !important;
+}
+
+
+.content-page{
+    margin-left: 0px !important;
+    margin-right: 250px !important;
+}
+
+
+.widget-messages .message-item .message-item-date{
+    left:7px !important;
+    right: auto !important;
+}
+
+
+
+.pull-right{
+    float:left !important;
+}
+
+.pull-left{
+    float:right!important;  
+}
+
+
+#sidebar-menu ul li .menu-arrow{
+    right:auto !important;
+    left:20px !important;
+    transform: rotate(180deg);
+}

@@ -1,0 +1,458 @@
+﻿.header-top-area {
+    background-color: #19aadf !important;
+    color:white!important;
+}
+.header-info span {
+    color: white !important;
+}
+body {
+    text-align: right;
+    font-family: system-ui !important;
+}
+.blueDiv {
+    background-color: #434E6E!important;
+}
+.boxCat {
+    box-sizing: border-box;
+    border: 30px solid transparent;
+    background-clip: padding-box;
+}
+.boxAgent {
+    box-sizing: border-box;
+    border: 20px solid transparent;
+    background-clip: padding-box;
+}
+@font-face {
+    font-family: "arbfonts";
+    font-weight: bold;
+    src: url("./CustomFonts/arbfonts.txt") format("opentype");
+}
+.header-default .header-info span i {
+    color: white !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #434E6E;
+    font-weight: 500;
+    font-family: system-ui !important;
+}
+.card{
+    border:none;
+}
+    .fab {
+    color: white !important;
+    padding:4px;
+
+}
+        .fab:hover {
+            transform: scale(1.2);
+        }
+.fa-facebook-f:hover {
+    color: #19aadf !important;
+    background-color: whitesmoke;
+}
+
+.fa-youtube:hover {
+    color: #bb0000 !important;
+    background-color: whitesmoke;
+}
+
+.fa-whatsapp:hover {
+    color: #34bf49 !important;
+    background-color: whitesmoke;
+}
+.fa-instagram:hover {
+    color: #bc2a8d !important;
+    background-color: whitesmoke;
+}
+.orgCol {
+    color: #F26F21 !important;
+}
+.iconhover:hover {
+    color: white!important;
+    background-color: #F26F21;
+}
+.colorHeadingBlue {
+   color: #434E6E!important;
+}
+.orangecolorbtn {
+    background-color: #f1701e;
+    color: white;
+    border: none;
+    font-weight: 500;
+    padding: 10px;
+    border-radius:5px;
+}
+    .orangecolorbtn:hover {
+        text-decoration: none;
+        color: #f1701e;
+        background-color:white;
+    }
+.underlineActive {
+    display: inline-block;
+    padding-bottom: 5px;
+    background: linear-gradient(to left,#DE9166,#13A5C0,#57B7DB);
+    background-size: 100% 4px;
+    background-position: bottom 0 left 0,bottom 5px left 0;
+    background-repeat: no-repeat;
+}
+.iconMenu{
+    padding-left:10px;
+}
+
+.nav-link:hover {
+}
+.footer-menu ul li a, .coral-footer .footer-contact-text span, .coral-footer .footer-contact-icon i, .footer-text p {
+    color: white;
+}
+.coral-footer .f-bottom-border {
+    border-top: 1px solid whitesmoke;
+}
+.arabic{
+    direction:rtl;
+}
+h2 {
+    color:white !important;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.Aftercentered {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+}
+.mb-0 {
+    background-color: #fff2ea;
+    color: #aca2a7;
+}
+.faq-box .btn-link.collapsed::before,.faq-box .btn-link::before, .faq-box .btn-link::before{
+    content:none!important;
+}
+.pillLi{
+    margin-left:10px;
+}
+.nav-pills .nav-link {
+    background-color: #f9f5ec;
+    color: #9296a4;
+}
+    .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+        background-color: #FBCEB4;
+        color: #9296a4;
+    }
+.list-group-item{
+    padding:0;
+    border:none;
+}
+.faq-box .btn-link {
+    color: #9296a4;
+    border: none;
+    padding: 11px 17px;
+}
+.hand{
+    cursor:pointer;
+}
+.bottomed {
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+.paleWhite {
+    color: #F8F8F8!important;
+}
+.MoreBtn {
+    background-color: #FFFFFF;
+    padding: 5px;
+    color: #F26F21;
+    text-align:right;
+    border:none;
+}
+.margin-bottom-0{
+    margin-bottom:0;
+}
+.margin-0{
+    margin:0;
+}
+.cardManger {
+    padding: 10px;
+}
+.cardAgent{
+    padding:10px;
+}
+.imgAgent{
+    height:100px;
+    object-fit:cover;
+}
+.whiteText{
+    color:#fff!important;
+}
+.orgBackBtn {
+    background-color: #F26F21;
+    padding: 15px;
+    color: #FFFFFF;
+    text-align: center;
+    border: none;
+}
+.padding-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+.imgComment, .vidComment {
+    width: 90%;
+    height: 150px;
+    border-radius: 1px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+.marginForClientCard{
+    margin:2px,10px;
+}
+.oddCard {
+    background-color: #F8F8F8!important;
+}
+.oddCardtext {
+    color: #565872 !important;
+}
+    .evenCard {
+        background-color: #434E6E!important;
+    }
+.evenCardtext {
+    color: #FFFFFF !important;
+}
+.blueBk{
+    background-image:url(../section/blue-bk.png);
+}
+.blueText {
+    color: #434E6E !important;
+    font-family: system-ui !important;
+}
+.paleBlueText {
+    color: #565872 !important;
+    font-family: system-ui !important;
+}
+.CardInfo {
+    padding: 15px;
+}
+.inputStyle {
+    color: #434E6E !important;
+    font-weight:500;
+}
+    .inputStyle::placeholder {
+    color: #565872!important;
+    }
+.padding-15 {
+    padding: 15px;
+}
+.CardForIcon {
+    background-color: #485373;
+    padding:10px;
+    border-radius:5px;
+}
+.marginAuto {
+    margin: 0 auto;
+}
+.padding-30{
+    padding:30px;
+}
+.grayDiv{
+    background-color:whitesmoke;
+}
+.animate:hover {
+    -webkit-transform: translate(2deg,2deg);
+    transform: translate(2deg,2deg);
+}
+.cardForGallery {
+    margin: 1rem auto;
+    position: relative;
+}
+.bodyForGallery {
+    z-index: 2;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.cover{
+    object-fit:cover;
+}
+.nav-justified .nav-item{
+    padding:2px;
+}
+.iframeCompany {
+    border: 0;
+    width: 100%;
+    height: 400px;
+}
+#father{
+    position:relative;
+}
+#son{
+    position:absolute;
+    top:95%;
+    left:20%;
+}
+.formDiv {
+    background-color: #F8F8F8!important;
+}
+.noresize{
+    resize:none;
+}
+.parent{
+    position:relative;
+    margin:20px;
+}
+.child {
+    position: inherit;
+    top: 75%;
+    bottom: 100px;
+}
+.Agentinfo{
+    background-color:white;
+    border-radius:2px;
+}
+footer{
+    margin-top:100px;
+}
+.items {
+    width: 90%;
+    margin: 0px auto;
+    margin-bottom: 10px;
+}
+.FinalProImg{
+    width:580px;
+    height:600px;
+    border-radius:1px;
+}
+.childFinalPro {
+    position: inherit;
+    top: 75%;
+    bottom: 100px;
+    left:5%;
+}
+.slick-slide {
+    margin: 10px
+}
+
+    .slick-slide img {
+        width: 100%;
+        border: 0px solid #fff;
+    }
+
+.imgForSlick {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.formDivMessage {
+    background-color: whitesmoke!important;
+}
+.imgForm{
+    height:100%;
+}
+.orgLink {
+    color: #404040;
+    font-family: system-ui !important;
+}
+    .orgLink.active {
+        color: #F26F21;
+        border-bottom: 1px solid #F26F21;
+    }
+.noborder{
+    border:none;
+}
+.orb-bg {
+    background-color: #F26F21;
+}
+.iconFooter {
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+    margin:2px;
+}
+    .iconFooter:hover {
+        text-decoration:none!important;
+    }
+    .fit{
+        object-fit:fill;
+    }
+    .textLeft{
+        text-align:left;
+    }
+.org-bg {
+    background-color: #F26F21 !important;
+    color:white!important;
+}
+.org active{
+    color:red;
+}
+.list-group-item.active {
+    color: #F26F21;
+    background-color:transparent;
+    border:none;
+}
+.skyText {
+    color: #19ABDF;
+    font-family: system-ui !important;
+}
+.list-group-item {
+    color: #434E6E;
+    font-family: system-ui !important;
+    
+}
+.font5{
+    font-weight:500;
+}
+.padding-20{
+    padding:20px;
+}
+.hoverLine:hover {
+    display: inline-block;
+    padding-bottom: 5px;
+    background: linear-gradient(to left,#DE9166,#13A5C0,#57B7DB);
+    background-size: 100% 4px;
+    background-position: bottom 0 left 0,bottom 5px left 0;
+    background-repeat: no-repeat;
+}
+.noDecoration:hover{
+    text-decoration:none!important
+}
+.verticalText {
+    vertical-align: middle !important;
+    display: table-cell;
+}
+.rightText{
+    text-align:right;
+}
+label {
+    font-family: system-ui !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: system-ui !important;
+}
+.contain{
+    object-fit:none;
+}
+.bg-org {
+    background-color: #F26F21;
+}
+.circular{
+    width:50px!important;
+    height:50px!important;
+    border-radius:50%!important;
+}
+.orgBkImg{
+    background-image:url("../section/bk-imgOrg.png.png");
+}
+.padding-30{
+    padding:30px;
+}
+
+    /******************
+********************************************/
